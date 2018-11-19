@@ -1,5 +1,5 @@
 Package: oipa
-Type: package
+Type: Package
 Title: An R Interface to the Openaid International Aid Transparency Initiative
     Parser and API
 Version: 0.1.0
@@ -16,3 +16,4 @@ License: MIT + file LICENSE
 Imports: httr
 Encoding: UTF-8
 LazyData: true
+RoxygenNote: 6.1.0
