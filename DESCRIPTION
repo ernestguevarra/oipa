@@ -1,0 +1,18 @@
+Package: oipa
+Type: package
+Title: An R Interface to the Openaid International Aid Transparency Initiative
+    Parser and API
+Version: 0.1.0
+Authors@R: person("Ernest", "Guevarra", comment = c(ORCID = "0000-0002-4887-4415"), 
+                  email = "ernest@guevarra.io", role = c("aut", "cre"))
+Description: The International Aid Transparency Initiatives (IATI) is a global 
+    aid transparency standard and it makes information about aid spending easier 
+    to access, use and understand using a unified open standard. Openaid IATI
+    Parser and Application Programming Interface (OIPA) enables IATI standard 
+    compliant dadtasets to easily parse and interface that data using API that
+    has been developed on the Django framework. This package provides an R
+    interface to the OIPA.
+License: MIT + file LICENSE
+Imports: httr
+Encoding: UTF-8
+LazyData: true
