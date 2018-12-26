@@ -1,16 +1,19 @@
 ################################################################################
 #
+#' get_oipa_activities
 #'
+#' Function to get activities from IATI-compliant sites.
 #'
+#' @param base Base URL
+#' @param iati_identifier IATI unique identifier
+#' @param query Query to pass to API
 #'
+#' @return Parsed content
 #'
+#' @examples
+#' #
 #'
-#'
-#'
-#'
-#'
-#'
-#'
+#' @export
 #'
 #
 ################################################################################
