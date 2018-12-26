@@ -35,7 +35,10 @@ get_activities <- function(url, query, value) {
     stop("API did not return json", call. = FALSE)
   }
 
-  parsed <- jsonlite::fromJSON(httr::content(resp, "text"), simplifyVector = FALSE)
+  parsed <- jsonlite::fromJSON(httr::content(x = resp,
+                                             as = "text",
+                                             encoding = "UTF-8"),
+                               simplifyVector = FALSE)
 
   structure(
     list(
