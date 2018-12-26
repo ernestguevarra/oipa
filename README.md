@@ -1,7 +1,7 @@
 
 <!-- README.md is generated from README.Rmd. Please edit that file -->
 
-# oipa: An R Interface to the Openaid International Aid Transparency Initiative Parser and API
+# oipa: An R Interface to the Openaid International Aid Transparency Initiative Parser and API <img src="man/figures/oipa.png" width="200" align="right" />
 
 The [International Aid Transparency Initiatives
 (IATI)](https://iatistandard.org/) is a global aid transparency standard
@@ -14,7 +14,7 @@ package provides an R interface to the OIPA.
 
 ## Installation
 
-You can install oipa from github with:
+You can install `oipa` from GitHub with:
 
 ``` r
 # install.packages("devtools")
