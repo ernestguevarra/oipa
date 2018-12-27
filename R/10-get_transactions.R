@@ -5,7 +5,7 @@
 #' Function to get transactions endpoint from IATI-compliant datasets.
 #'
 #' @param url URL for websites containing IATI-compliant datasets.
-#' @param query Search/query parameter. For IATI activites, this can be
+#' @param query Search/query parameter. For IATI transactions, this can be
 #'     `description`, `provider_organisation_name`, `receiver_organisation_name`.
 #' @param value Value to pass to specified `query`.
 #'

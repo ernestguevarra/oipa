@@ -5,7 +5,7 @@
 #' Function to get regions endpoint from IATI-compliant datasets.
 #'
 #' @param url URL for websites containing IATI-compliant datasets.
-#' @param query Search/query parameter. For IATI activites, this can be
+#' @param query Search/query parameter. For IATI regions, this can be
 #'     specified as `region_id`.
 #' @param value Value to pass to specified `query`.
 #'
