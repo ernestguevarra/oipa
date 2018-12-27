@@ -2,6 +2,7 @@
 
 export(get_activities)
 export(get_cities)
+export(get_countries)
 export(get_datasets)
 export(get_locations)
 export(get_organisations)
