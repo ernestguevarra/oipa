@@ -24,7 +24,7 @@ Function to get activities endpoint from IATI-compliant datasets.
 }
 \examples{
 get_activities(url = "https://devtracker.dfid.gov.uk",
-                    query = "iati_identifier",
-                    value = "075004")
+               query = "iati_identifier",
+               value = "075004")
 
 }

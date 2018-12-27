@@ -9,7 +9,7 @@ get_sectors(url, query, value)
 \arguments{
 \item{url}{URL for websites containing IATI-compliant datasets.}
 
-\item{query}{Search/query parameter. For IATI activites, this can be
+\item{query}{Search/query parameter. For IATI sectors, this can be
 specified as `sector_id`.}
 
 \item{value}{Value to pass to specified `query`.}
